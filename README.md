@@ -2,7 +2,7 @@
    
 V2.15.0 
 
-Blender File Download : [3dpPlaneDesign_2_15_0.zip](https://github.com/nerk987/3dpPlaneDesign/releases/download/v2.15.0/3dpPlaneDesign_2_15_0.zip) 
+Blender File Download : [3dpPlaneDesign_2_15.zip](https://github.com/nerk987/3dpPlaneDesign/releases/download/v2.15.0/3dpPlaneDesign_2_15.zip) 
 
 Non-destructive 3D Printed Model Plane Design using Geometry Nodes (Blender 3.1 or higher)
 
