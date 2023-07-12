@@ -1,18 +1,18 @@
 # 3dPPlaneDesign - 3D Printed Model Plane Non-destructive Blender Design Tools
    
-V2.14.0 
+V2.15.0 
 
-Blender File Download : [3dpPlaneDesign_2_14_0.zip](https://github.com/nerk987/3dpPlaneDesign/releases/download/v2.14.0/3dpPlaneDesign_2_14_0.zip) 
+Blender File Download : [3dpPlaneDesign_2_15_0.zip](https://github.com/nerk987/3dpPlaneDesign/releases/download/v2.15.0/3dpPlaneDesign_2_15_0.zip) 
 
 Non-destructive 3D Printed Model Plane Design using Geometry Nodes (Blender 3.1 or higher)
 
-Youtube Overview (For the Blend File, not the addon...):https://youtu.be/w0Qn-hiX6Dg. Full tutorial coming soon
+Youtube Overview https://youtu.be/6Arj4ojOuUc
 
 ## Introduction
 This is a blender file containing a number of design tools using Blender's Geometry Nodes.
 
 ## Installation
-Download the zip file, and extract the 3dpPlaneDesign_2_14.blend file. Open it up and start designing a plane.
+Download the zip file, and extract the 3dpPlaneDesign_2_15.blend file. Open it up and start designing a plane.
 
 Alternatively you can append collections for a Wing, TailPlane, Fin, or Fuselage into your blend file. 
 
