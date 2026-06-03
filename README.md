@@ -1,18 +1,20 @@
 # 3dPPlaneDesign - 3D Printed Model Plane Non-destructive Blender Design Tools
    
-V2.16.0 
+V3.01.0
 
-Blender File Download : [3dpPlaneDesign_2_16.zip](https://github.com/nerk987/3dpPlaneDesign/releases/download/v2.16.0/3dpPlaneDesign_2_16.zip) 
+Blender File Download : [NerkVTail_3_01.zip](https://github.com/nerk987/3dpPlaneDesign/releases/download/v3.01.0/NerkVTail_3_01.zip)
 
-Non-destructive 3D Printed Model Plane Design using Geometry Nodes (Blender 3.1 or higher but 4.1 recommended)
+Non-destructive 3D Printed Model Plane Design using Geometry Nodes (Blender 4.1 or higher)
 
 Youtube Overview https://youtu.be/6Arj4ojOuUc
 
 ## Introduction
-This is a blender file containing a number of design tools using Blender's Geometry Nodes.
+This is a blender file containing design for a V-Tail RC plane using Blender's Geometry Nodes. The design can be adjusted dynamically.
+
+It also contains the STL files for the design, as well as Blender addons for importing airfoil shapes and exporting to xflr for analysis.
 
 ## Installation
-Download the zip file, and extract the 3dpPlaneDesign_2_16.blend file. Open it up and start designing a plane.
+Download the zip file, and extract the VTail_V01.blend file. Open it up and start designing a plane.
 
 Alternatively you can append collections for a Wing, TailPlane, Fin, or Fuselage into your blend file. 
 
@@ -33,7 +35,7 @@ Alternatively you can append collections for a Wing, TailPlane, Fin, or Fuselage
 * Export wing to xFlr5
 
 ### Other
-* Aileron/Elevator/Rudder cutters
+* STL files
 
 
 
